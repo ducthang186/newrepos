@@ -1,1 +1,5 @@
-week 1 cua branch va main 
+<<<<<<< HEAD
+week 1 cua main 
+=======
+week 1 cua branch
+>>>>>>> branch1
